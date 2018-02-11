@@ -16,7 +16,9 @@ description: 基于centos搭建自己的VPS服务。
 ## 部署Shadowsocks服务
 ### Github地址
 Server：https://github.com/shadowsocks/shadowsocks/tree/master
+
 Client for windows : https://github.com/shadowsocks/shadowsocks-windows 
+
 IOS:    App Stores搜索Shadowrocket(需要支付12元)
 
 ### Deploy
